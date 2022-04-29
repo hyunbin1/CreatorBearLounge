@@ -1,10 +1,13 @@
 ## 예상 스택
 
 Design: Figma
+<br>
 Front:React
+<br>
 Backend: FireBase -> Nest
+<br>
 ERD 스키마: https://app.sqldbm.com/PostgreSQL/Edit/p213977/#
-DB:
+<br>
 
 ## 페이지 개요
 
