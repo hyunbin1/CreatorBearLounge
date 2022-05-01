@@ -40,7 +40,8 @@ const WalletCard = () => {
 
     // 참조 API: https://api.rarible.org/v0.1/doc#operation/getItemByIds
     const response = await fetch(
-      `https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:0x60f80121c31a0d46b5279700f9df786054aa5ee5`
+      // `https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:0x60f80121c31a0d46b5279700f9df786054aa5ee5`
+      `https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:0x82611E6A5d96801b57D62902b0191BC1e4f8ceDe`
       // `https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:${walletAddress}`
     );
 
