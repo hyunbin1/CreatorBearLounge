@@ -4,7 +4,9 @@ Design: Figma
 <br>
 Front:React
 <br>
-Backend: FireBase -> Nest
+Backend: Nest
+<br>
+server: AWS - S3, EC2, RDS
 <br>
 ERD 스키마: https://app.sqldbm.com/PostgreSQL/Edit/p213977/#
 <br>
@@ -91,7 +93,7 @@ NFT5개 이상 홀더만 들어갈 수 있는 카테고리 개설 가능?
 |           5           |     blockBanch Modeling      |             0.3             |
 |           6           | Background Music for YOUTUBE |              1              |
 |           7           |    Plug In  & Server Pack    |             0.6             |
-|           8           |             Font             |                             |
+|           8           |             Font             |              1              |
 |           9           |       Effective sound        |             0.2             |
 
 
