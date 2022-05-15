@@ -6,7 +6,8 @@ Front:React
 <br>
 Backend: Nest
 <br>
-server: AWS - S3, EC2, RDS
+server: AWS - S3 EC2, RDS
+Contents storeage: gooleDrive
 <br>
 ERD 스키마: https://app.sqldbm.com/PostgreSQL/Edit/p213977/#
 <br>
