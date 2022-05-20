@@ -9,7 +9,7 @@ Backend: Nest
 server: AWS - S3 EC2, RDS
 Contents storeage: gooleDrive
 <br>
-ERD 스키마: https://app.sqldbm.com/PostgreSQL/Edit/p213977/#
+ERD 스키마: https://www.erdcloud.com/d/KQ7oBLmx89SjyuTTE
 <br>
 
 ## 페이지 개요
