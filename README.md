@@ -1,6 +1,7 @@
 ## 예상 스택
 
 Design: Figma - https://www.figma.com/file/HqwC3yHqip2Rjtgw86BUoc/Untitled?node-id=0%3A1
+기획 문서: https://docs.google.com/spreadsheets/d/1LiPcUMlPF9di5wOVqVem_wyeNrSH5BDzBfModDqlHSs/edit#gid=0
 <br>
 Front:React
 <br>
